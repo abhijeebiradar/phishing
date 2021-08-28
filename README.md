@@ -1,5 +1,5 @@
 # phishing
-Different types if tools for phishing ( only education purpose)
+Different types of tools for phishing ( only education purpose)
 
 
 Steps To Install ZPhisher on Termux Without Error
